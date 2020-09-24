@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">thirdapp</string>
+    <string name="text1">TeamA</string>
+    <string name="text2">TeamB</string>
+    <string name="text3">0</string>
+    <string name="text4">0</string>
+    <string name="button1">+3 POINTS</string>
+    <string name="button2">+2 POINTS</string>
+    <string name="button3">FREE THROW</string>
+    <string name="button4">+3 POINTS</string>
+    <string name="button5">+2 POINTS</string>
+    <string name="button6">FREE THROW</string>
+    <string name="button7">RESET</string>
+</resources>
